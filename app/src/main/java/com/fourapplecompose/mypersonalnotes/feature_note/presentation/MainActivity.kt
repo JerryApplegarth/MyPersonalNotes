@@ -1,4 +1,4 @@
-package com.fourapplecompose.mypersonalnotes
+package com.fourapplecompose.mypersonalnotes.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
