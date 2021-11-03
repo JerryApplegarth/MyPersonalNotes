@@ -9,7 +9,7 @@ import com.fourapplecompose.mypersonalnotes.feature_note.domain.util.NoteOrder
 import com.fourapplecompose.mypersonalnotes.feature_note.domain.util.OrderType
 
 @Composable
-fun OrderedSection(
+fun OrderSection(
     modifier: Modifier = Modifier,
     noteOrder: NoteOrder = NoteOrder.Date(OrderType.Descending),
     onOrderChange: (NoteOrder) -> Unit
